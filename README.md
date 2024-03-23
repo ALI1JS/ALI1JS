@@ -8,7 +8,7 @@
     Hello there! I'm a passionate Backend Software Engineer specializing in technologies like Node.js, Express, and NestJS. I have a keen interest in building scalable web applications and am always eager to dive into new technologies and frameworks. My journey in tech has been marked by continuous learning and a strong commitment to mastering the art of software development. Let's connect and create something amazing together
   </span>
 </p>
-![github-banner](https://github.com/ALI1JS/ALI1JS/assets/98550711/29233144-0464-47d4-b4bc-8a502f6b331b)
+[![github-banner](https://github.com/ALI1JS/ALI1JS/assets/98550711/29233144-0464-47d4-b4bc-8a502f6b331b)](https://private-user-images.githubusercontent.com/98550711/316218206-7a2a687b-265d-4071-9a2d-58a49c5c81c2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExNzA2NDUsIm5iZiI6MTcxMTE3MDM0NSwicGF0aCI6Ii85ODU1MDcxMS8zMTYyMTgyMDYtN2EyYTY4N2ItMjY1ZC00MDcxLTlhMmQtNThhNDljNWM4MWMyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIzVDA1MDU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxM2RjMTNjZTI3ZjczODQ5YmY2MTc1ZDk0MzJmOWVhMjVjYTg4NDZiYjk1MDg4ZWY1Njk5YmU1ZWJmZTc5ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._pnBSeKdHwNOVW15o_9Q_mBDyVWukEpxeFkUa-r-7NI)
 
 
 - 🌱 I’m currently learning **nestjs**
