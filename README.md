@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <p align="left" style="display: flex; align-items: center;">
-  <span>
+  <span style="font-weight: bold; font-size: 20px;">
     Hello there! I'm a passionate Backend Software Engineer specializing in technologies like Node.js, Express, and NestJS. I have a keen interest in building scalable web applications and am always eager to dive 
    into new technologies and frameworks. My journey in tech has been marked by continuous learning and a strong commitment to mastering the art of software development. Let's connect and create something amazing 
     together
