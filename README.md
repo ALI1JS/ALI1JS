@@ -5,10 +5,10 @@
 
 <p align="left" style="display: flex; align-items: center;">
   <span>
-    Hello there! I'm a passionate Backend Software Engineer specializing in technologies like Node.js, Express, and NestJS. I have a keen interest in building scalable web applications and am always eager to dive into new technologies and frameworks. My journey in tech has been marked by continuous learning and a strong commitment to mastering the art of software development. Let's connect and create something amazing together!
+    Hello there! I'm a passionate Backend Software Engineer specializing in technologies like Node.js, Express, and NestJS. I have a keen interest in building scalable web applications and am always eager to dive into new technologies and frameworks. My journey in tech has been marked by continuous learning and a strong commitment to mastering the art of software development. Let's connect and create something amazing together
   </span>
 </p>
-  ![github-banner](https://github.com/ALI1JS/ALI1JS/assets/98550711/29233144-0464-47d4-b4bc-8a502f6b331b)
+![github-banner](https://github.com/ALI1JS/ALI1JS/assets/98550711/29233144-0464-47d4-b4bc-8a502f6b331b)
 
 
 - 🌱 I’m currently learning **nestjs**
