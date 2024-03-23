@@ -1,11 +1,9 @@
+![Image Alt text](/images/github-banner.gif
+![Image Alt text](/images/github-banner.gif "Optional title"))
+
 <h1 align="center">Hi 👋, I'm ALI ISMAIL</h1>
 <h3 align="center">🚀 Passionate Backend Developer & Lifelong Learner 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali1js&label=Profile%20views&color=0e75b6&style=flat" alt="ali1js" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali1js" alt="ali1js" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ali1_js" target="blank"><img src="https://img.shields.io/twitter/follow/ali1_js?logo=twitter&style=for-the-badge" alt="ali1_js" /></a> </p>
 
 - 🌱 I’m currently learning **nestjs**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **aliismailh0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cXceb7ocEX3YTh12eNdsnXkp6Y5uS8o3/view?usp=sharing](https://drive.google.com/file/d/1cXceb7ocEX3YTh12eNdsnXkp6Y5uS8o3/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1cXceb7ocEX3YTh12eNdsnXkp6Y5uS8o3/view?usp=sharing](https://drive.google.com/file/d/1cXceb7ocEX3YTh12eNdsnXkp6Y5uS8o3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
